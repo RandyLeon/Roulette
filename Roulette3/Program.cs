@@ -10,6 +10,9 @@ namespace Roulette3
     {
         static void Main(string[] args)
         {
+            var start = new Game();
+            start.game();
+           
         }
     }
 }
